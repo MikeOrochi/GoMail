@@ -1118,6 +1118,7 @@ Portfolio
   position: absolute;
   z-index: 2;
   transition: all 0.5s;
+  padding: 3px;
 }
 
 .our-portfolio .hidden-content:after {
